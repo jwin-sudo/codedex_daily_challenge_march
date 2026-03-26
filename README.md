@@ -41,6 +41,7 @@ Current solutions in this repository:
 - Day 23: `cuddly_kittens_day23.py`
 - Day 24: `earthquake_anomaly_day24.py`
 - Day 25: `opening_day_day25.py`
+- Day 26: `flatten_array_day26.py`
 
 ## How to Run
 
