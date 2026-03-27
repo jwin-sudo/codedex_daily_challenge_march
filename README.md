@@ -42,6 +42,7 @@ Current solutions in this repository:
 - Day 24: `earthquake_anomaly_day24.py`
 - Day 25: `opening_day_day25.py`
 - Day 26: `flatten_array_day26.py`
+- Day 27: `infinite_monkey_theorem_day27.py`
 
 ## How to Run
 
