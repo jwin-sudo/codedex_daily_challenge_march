@@ -43,6 +43,7 @@ Current solutions in this repository:
 - Day 25: `opening_day_day25.py`
 - Day 26: `flatten_array_day26.py`
 - Day 27: `infinite_monkey_theorem_day27.py`
+- Day 28: `28_days_later_day28.py`
 
 ## How to Run
 
