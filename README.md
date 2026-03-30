@@ -47,6 +47,7 @@ Current solutions in this repository:
 - Day 27: `infinite_monkey_theorem_day27.py`
 - Day 28: `28_days_later_day28.py`
 - Day 29: `leaderboard_stats_day29.py`
+- Day 30: `ye_olde_emoticons_day30.py`
 
 ## How to Run
 
