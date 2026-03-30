@@ -27,6 +27,8 @@ Current solutions in this repository:
 - Day 1: `worldle_day1.py`
 - Day 2: `blood_moon_day2.py`
 - Day 3: `holi_day3.py`
+- Day 4: `homebrew_computer_club_day4.py`
+- Day 5: `alysa_liu_day5.py`
 - Day 13: `world_wide_web_day13.py`
 - Day 14: `palindrome_day14.py`
 - Day 14 (Pi Day): `pi_day14.py`
@@ -44,6 +46,7 @@ Current solutions in this repository:
 - Day 26: `flatten_array_day26.py`
 - Day 27: `infinite_monkey_theorem_day27.py`
 - Day 28: `28_days_later_day28.py`
+- Day 29: `leaderboard_stats_day29.py`
 
 ## How to Run
 
