@@ -48,6 +48,7 @@ Current solutions in this repository:
 - Day 28: `28_days_later_day28.py`
 - Day 29: `leaderboard_stats_day29.py`
 - Day 30: `ye_olde_emoticons_day30.py`
+- Day 31: `my_best_streak_day31.py`
 
 ## How to Run
 
