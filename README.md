@@ -29,8 +29,14 @@ Current solutions in this repository:
 - Day 3: `holi_day3.py`
 - Day 4: `homebrew_computer_club_day4.py`
 - Day 5: `alysa_liu_day5.py`
-- Day 13: `world_wide_web_day13.py`
-- Day 14: `palindrome_day14.py`
+- Day 6:
+- Day 7:
+- Day 8:
+- Day 9:
+- Day 10:
+- Day 11:
+- Day 12: `world_wide_web_day13.py`
+- Day 13: `palindrome_day14.py`
 - Day 14 (Pi Day): `pi_day14.py`
 - Day 15: `caesar_cipher_day15.py`
 - Day 16: `oscars_day16.py`
